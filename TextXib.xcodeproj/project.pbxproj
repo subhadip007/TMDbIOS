@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BA3C3E2B28E2CB7600E260BE /* LabelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA3C3E2928E2CB7600E260BE /* LabelViewController.swift */; };
-		BA3C3E2C28E2CB7600E260BE /* LabelViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA3C3E2A28E2CB7600E260BE /* LabelViewController.xib */; };
 		BA6BA4CD28DC5B7D00F7738B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA6BA4CC28DC5B7D00F7738B /* AppDelegate.swift */; };
 		BA6BA4D128DC5B7D00F7738B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA6BA4D028DC5B7D00F7738B /* ViewController.swift */; };
 		BA6BA4D628DC5B7F00F7738B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BA6BA4D528DC5B7F00F7738B /* Assets.xcassets */; };
@@ -17,20 +15,7 @@
 		BA6BA4EE28DC5B7F00F7738B /* TextXibUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA6BA4ED28DC5B7F00F7738B /* TextXibUITests.swift */; };
 		BA6BA4F028DC5B7F00F7738B /* TextXibUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA6BA4EF28DC5B7F00F7738B /* TextXibUITestsLaunchTests.swift */; };
 		BA6BA4FE28DC5D4500F7738B /* rootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA6BA4FC28DC5D4500F7738B /* rootViewController.swift */; };
-		BA7D521E28E4416F003A7941 /* Petition.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7D521D28E4416F003A7941 /* Petition.swift */; };
-		BA7D522028E441E4003A7941 /* Petitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA7D521F28E441E4003A7941 /* Petitions.swift */; };
-		BA88E0D228DC8A3C005CC723 /* ButtonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA88E0D028DC8A3B005CC723 /* ButtonViewController.swift */; };
-		BA88E0D328DC8A3C005CC723 /* ButtonViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BA88E0D128DC8A3C005CC723 /* ButtonViewController.xib */; };
 		BAA42DFD28DC8FEE00E92E6D /* rootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BAA42DFC28DC8FEE00E92E6D /* rootViewController.xib */; };
-		BAA71AD528E3027D00B1DA6F /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA71AD428E3027D00B1DA6F /* TabBarViewController.swift */; };
-		BAA71AD828E3094D00B1DA6F /* PetitionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA71AD628E3094D00B1DA6F /* PetitionsViewController.swift */; };
-		BAA71AD928E3094D00B1DA6F /* PetitionsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BAA71AD728E3094D00B1DA6F /* PetitionsViewController.xib */; };
-		BAA71ADC28E3098200B1DA6F /* RecentsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA71ADA28E3098200B1DA6F /* RecentsViewController.swift */; };
-		BAA71ADD28E3098200B1DA6F /* RecentsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BAA71ADB28E3098200B1DA6F /* RecentsViewController.xib */; };
-		BAED3C1C28E3255B00990490 /* viewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAED3C1A28E3255B00990490 /* viewTableViewCell.swift */; };
-		BAED3C1D28E3255B00990490 /* viewTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = BAED3C1B28E3255B00990490 /* viewTableViewCell.xib */; };
-		BAED3C2028E40DA600990490 /* NaviViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAED3C1E28E40DA600990490 /* NaviViewController.swift */; };
-		BAED3C2128E40DA600990490 /* NaviViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = BAED3C1F28E40DA600990490 /* NaviViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,8 +36,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BA3C3E2928E2CB7600E260BE /* LabelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelViewController.swift; sourceTree = "<group>"; };
-		BA3C3E2A28E2CB7600E260BE /* LabelViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LabelViewController.xib; sourceTree = "<group>"; };
 		BA6BA4C928DC5B7D00F7738B /* TextXib.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TextXib.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BA6BA4CC28DC5B7D00F7738B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BA6BA4D028DC5B7D00F7738B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -65,20 +48,7 @@
 		BA6BA4ED28DC5B7F00F7738B /* TextXibUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextXibUITests.swift; sourceTree = "<group>"; };
 		BA6BA4EF28DC5B7F00F7738B /* TextXibUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextXibUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		BA6BA4FC28DC5D4500F7738B /* rootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rootViewController.swift; sourceTree = "<group>"; };
-		BA7D521D28E4416F003A7941 /* Petition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petition.swift; sourceTree = "<group>"; };
-		BA7D521F28E441E4003A7941 /* Petitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petitions.swift; sourceTree = "<group>"; };
-		BA88E0D028DC8A3B005CC723 /* ButtonViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonViewController.swift; sourceTree = "<group>"; };
-		BA88E0D128DC8A3C005CC723 /* ButtonViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ButtonViewController.xib; sourceTree = "<group>"; };
 		BAA42DFC28DC8FEE00E92E6D /* rootViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = rootViewController.xib; sourceTree = "<group>"; };
-		BAA71AD428E3027D00B1DA6F /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
-		BAA71AD628E3094D00B1DA6F /* PetitionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PetitionsViewController.swift; sourceTree = "<group>"; };
-		BAA71AD728E3094D00B1DA6F /* PetitionsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = PetitionsViewController.xib; sourceTree = "<group>"; };
-		BAA71ADA28E3098200B1DA6F /* RecentsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecentsViewController.swift; sourceTree = "<group>"; };
-		BAA71ADB28E3098200B1DA6F /* RecentsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RecentsViewController.xib; sourceTree = "<group>"; };
-		BAED3C1A28E3255B00990490 /* viewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewTableViewCell.swift; sourceTree = "<group>"; };
-		BAED3C1B28E3255B00990490 /* viewTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = viewTableViewCell.xib; sourceTree = "<group>"; };
-		BAED3C1E28E40DA600990490 /* NaviViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NaviViewController.swift; sourceTree = "<group>"; };
-		BAED3C1F28E40DA600990490 /* NaviViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NaviViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,8 +131,6 @@
 		BA7D521C28E44155003A7941 /* Models */ = {
 			isa = PBXGroup;
 			children = (
-				BA7D521D28E4416F003A7941 /* Petition.swift */,
-				BA7D521F28E441E4003A7941 /* Petitions.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -171,13 +139,6 @@
 			isa = PBXGroup;
 			children = (
 				BA6BA4FC28DC5D4500F7738B /* rootViewController.swift */,
-				BA88E0D028DC8A3B005CC723 /* ButtonViewController.swift */,
-				BA3C3E2928E2CB7600E260BE /* LabelViewController.swift */,
-				BAA71AD428E3027D00B1DA6F /* TabBarViewController.swift */,
-				BAA71AD628E3094D00B1DA6F /* PetitionsViewController.swift */,
-				BAA71ADA28E3098200B1DA6F /* RecentsViewController.swift */,
-				BAED3C1A28E3255B00990490 /* viewTableViewCell.swift */,
-				BAED3C1E28E40DA600990490 /* NaviViewController.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -185,13 +146,7 @@
 		BA88E0D528DC8E0A005CC723 /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				BAA71ADB28E3098200B1DA6F /* RecentsViewController.xib */,
-				BAA71AD728E3094D00B1DA6F /* PetitionsViewController.xib */,
-				BA3C3E2A28E2CB7600E260BE /* LabelViewController.xib */,
-				BA88E0D128DC8A3C005CC723 /* ButtonViewController.xib */,
 				BAA42DFC28DC8FEE00E92E6D /* rootViewController.xib */,
-				BAED3C1B28E3255B00990490 /* viewTableViewCell.xib */,
-				BAED3C1F28E40DA600990490 /* NaviViewController.xib */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -300,15 +255,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BA3C3E2C28E2CB7600E260BE /* LabelViewController.xib in Resources */,
-				BA88E0D328DC8A3C005CC723 /* ButtonViewController.xib in Resources */,
-				BAA71AD928E3094D00B1DA6F /* PetitionsViewController.xib in Resources */,
-				BAED3C2128E40DA600990490 /* NaviViewController.xib in Resources */,
 				BA6BA4D928DC5B7F00F7738B /* LaunchScreen.storyboard in Resources */,
 				BAA42DFD28DC8FEE00E92E6D /* rootViewController.xib in Resources */,
-				BAA71ADD28E3098200B1DA6F /* RecentsViewController.xib in Resources */,
 				BA6BA4D628DC5B7F00F7738B /* Assets.xcassets in Resources */,
-				BAED3C1D28E3255B00990490 /* viewTableViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -333,17 +282,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BA88E0D228DC8A3C005CC723 /* ButtonViewController.swift in Sources */,
-				BA7D522028E441E4003A7941 /* Petitions.swift in Sources */,
-				BA3C3E2B28E2CB7600E260BE /* LabelViewController.swift in Sources */,
-				BAA71ADC28E3098200B1DA6F /* RecentsViewController.swift in Sources */,
-				BAED3C1C28E3255B00990490 /* viewTableViewCell.swift in Sources */,
-				BAED3C2028E40DA600990490 /* NaviViewController.swift in Sources */,
 				BA6BA4D128DC5B7D00F7738B /* ViewController.swift in Sources */,
-				BA7D521E28E4416F003A7941 /* Petition.swift in Sources */,
-				BAA71AD528E3027D00B1DA6F /* TabBarViewController.swift in Sources */,
 				BA6BA4CD28DC5B7D00F7738B /* AppDelegate.swift in Sources */,
-				BAA71AD828E3094D00B1DA6F /* PetitionsViewController.swift in Sources */,
 				BA6BA4FE28DC5D4500F7738B /* rootViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
