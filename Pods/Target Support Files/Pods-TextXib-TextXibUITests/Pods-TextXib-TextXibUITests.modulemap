@@ -1,0 +1,6 @@
+framework module Pods_TextXib_TextXibUITests {
+  umbrella header "Pods-TextXib-TextXibUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
